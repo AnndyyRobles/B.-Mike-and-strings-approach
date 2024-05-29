@@ -1,7 +1,6 @@
-# CODEFORCES MIKE AND STRINGS
 <div align="center">
-  <h1>Título de mi Proyecto</h1>
-  <img src="https://github.com/AnndyyRobles/B.-Mike-and-strings-approach/blob/main/imgs/img1.jpg" alt="problem" width="500" style="border-radius: 15px;"/>
+  <h1>CODEFORCES MIKE AND STRINGS</h1><br>
+  <img src="https://github.com/AnndyyRobles/B.-Mike-and-strings-approach/blob/main/imgs/img1.jpg" alt="problem" width="500" style="border-radius: 45px;"/><br>
 </div>
 
 ```cpp
